@@ -40,7 +40,7 @@ ui <- fluidPage(
     
     sidebarPanel(position = "right",
                  fluidRow(selectInput("bins", h4("Impacts in absolute terms for the year 2011"), 
-                                      choices = list("Region" = df3$WR), selected = 1)),
+                                      choices = list("Region" = unique(df3$WR)), selected = 1)),
                  # fluidRow(helpText("Annual changes in production impacts relative to 2000")),
                  fluidRow(helpText("Biodiversity impacts are measured in terms of impending global bird extinctions.")),
                  fluidRow(helpText(em("Based on Figure 1a in Marques et al. (2019) Trends on higher land-use efficiency insufficient to mitigate impacts on nature from population and consumption growth. Nat.Ecol.Evo."))),
