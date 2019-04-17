@@ -22,7 +22,7 @@ library(shiny)
 library(shinydashboard)
 
 
-df3<-read.csv("~/Dropbox (iDiv)/DESIRE_AMIM/Paper/2nd_Submission_NATURE/Data_work/2_Analysis/Figure_1a.csv")
+df3<-read.csv("Figure_1a.csv")
 
 df3<-df3[,2:5]
 
