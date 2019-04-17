@@ -1,0 +1,491 @@
+"","WR","type","LU","value"
+"38","Australia","bio_2011","Paddy rice",0.000878132
+"87","Australia","bio_2011","Wheat",0.15645123
+"136","Australia","bio_2011","Cereal grains NEC",0.063628213
+"185","Australia","bio_2011","Vegetables, fruit, nuts",0.009209058
+"234","Australia","bio_2011","Oil seeds",0.029761108
+"283","Australia","bio_2011","Sugar cane, sugar beet",0.00357014
+"381","Australia","bio_2011","Crops NEC",3.84e-05
+"430","Australia","bio_2011","Cattle",0.02751564
+"626","Australia","bio_2011","Raw milk",0.005637983
+"675","Australia","bio_2011","Forestry",0.022163998
+"1","Austria","bio_2011","Paddy rice",0
+"50","Austria","bio_2011","Wheat",6.62e-05
+"99","Austria","bio_2011","Cereal grains NEC",0.000109342
+"148","Austria","bio_2011","Vegetables, fruit, nuts",8.99e-06
+"197","Austria","bio_2011","Oil seeds",3.23e-05
+"246","Austria","bio_2011","Sugar cane, sugar beet",1.01e-05
+"344","Austria","bio_2011","Crops NEC",0
+"393","Austria","bio_2011","Cattle",6.03e-06
+"589","Austria","bio_2011","Raw milk",1.86e-06
+"638","Austria","bio_2011","Forestry",0.000741917
+"2","Belgium","bio_2011","Paddy rice",0
+"51","Belgium","bio_2011","Wheat",4.55e-05
+"100","Belgium","bio_2011","Cereal grains NEC",2.85e-05
+"149","Belgium","bio_2011","Vegetables, fruit, nuts",1.14e-05
+"198","Belgium","bio_2011","Oil seeds",4.79e-06
+"247","Belgium","bio_2011","Sugar cane, sugar beet",1.41e-05
+"345","Belgium","bio_2011","Crops NEC",5.84e-08
+"394","Belgium","bio_2011","Cattle",3.25e-06
+"590","Belgium","bio_2011","Raw milk",9.86e-07
+"639","Belgium","bio_2011","Forestry",0.000141378
+"34","Brazil","bio_2011","Paddy rice",0.12187627
+"83","Brazil","bio_2011","Wheat",0.094694307
+"132","Brazil","bio_2011","Cereal grains NEC",0.63418218
+"181","Brazil","bio_2011","Vegetables, fruit, nuts",0.40822644
+"230","Brazil","bio_2011","Oil seeds",1.1366227
+"279","Brazil","bio_2011","Sugar cane, sugar beet",0.42507044
+"377","Brazil","bio_2011","Crops NEC",0.15553994
+"426","Brazil","bio_2011","Cattle",3.7494535
+"622","Brazil","bio_2011","Raw milk",0.91477381
+"671","Brazil","bio_2011","Forestry",0.4900626
+"3","Bulgaria","bio_2011","Paddy rice",1.02e-05
+"52","Bulgaria","bio_2011","Wheat",0.000402998
+"101","Bulgaria","bio_2011","Cereal grains NEC",0.00019739
+"150","Bulgaria","bio_2011","Vegetables, fruit, nuts",2.62e-05
+"199","Bulgaria","bio_2011","Oil seeds",0.000308399
+"248","Bulgaria","bio_2011","Sugar cane, sugar beet",0
+"346","Bulgaria","bio_2011","Crops NEC",7.17e-05
+"395","Bulgaria","bio_2011","Cattle",9.44e-06
+"591","Bulgaria","bio_2011","Raw milk",1.53e-05
+"640","Bulgaria","bio_2011","Forestry",0.001362017
+"32","Canada","bio_2011","Paddy rice",0
+"81","Canada","bio_2011","Wheat",0.010915954
+"130","Canada","bio_2011","Cereal grains NEC",0.006185869
+"179","Canada","bio_2011","Vegetables, fruit, nuts",0.000885645
+"228","Canada","bio_2011","Oil seeds",0.01204924
+"277","Canada","bio_2011","Sugar cane, sugar beet",1.55e-05
+"375","Canada","bio_2011","Crops NEC",3.38e-05
+"424","Canada","bio_2011","Cattle",0.000280895
+"620","Canada","bio_2011","Raw milk",8.73e-05
+"669","Canada","bio_2011","Forestry",0.016634074
+"31","China","bio_2011","Paddy rice",0.14278288
+"80","China","bio_2011","Wheat",0.052580145
+"129","China","bio_2011","Cereal grains NEC",0.08970782
+"178","China","bio_2011","Vegetables, fruit, nuts",0.10861481
+"227","China","bio_2011","Oil seeds",0.063923552
+"276","China","bio_2011","Sugar cane, sugar beet",0.018409154
+"374","China","bio_2011","Crops NEC",0.010319327
+"423","China","bio_2011","Cattle",0.10610482
+"619","China","bio_2011","Raw milk",0.063986164
+"668","China","bio_2011","Forestry",0.34612372
+"13","Croatia","bio_2011","Paddy rice",0
+"62","Croatia","bio_2011","Wheat",0.000155573
+"111","Croatia","bio_2011","Cereal grains NEC",0.000406466
+"160","Croatia","bio_2011","Vegetables, fruit, nuts",2.83e-05
+"209","Croatia","bio_2011","Oil seeds",0.000130956
+"258","Croatia","bio_2011","Sugar cane, sugar beet",2.26e-05
+"356","Croatia","bio_2011","Crops NEC",5.99e-06
+"405","Croatia","bio_2011","Cattle",3.45e-05
+"601","Croatia","bio_2011","Raw milk",3.17e-05
+"650","Croatia","bio_2011","Forestry",0.000618559
+"4","Cyprus","bio_2011","Paddy rice",0
+"53","Cyprus","bio_2011","Wheat",0
+"102","Cyprus","bio_2011","Cereal grains NEC",0
+"151","Cyprus","bio_2011","Vegetables, fruit, nuts",2.38e-05
+"200","Cyprus","bio_2011","Oil seeds",0
+"249","Cyprus","bio_2011","Sugar cane, sugar beet",0
+"347","Cyprus","bio_2011","Crops NEC",0
+"396","Cyprus","bio_2011","Cattle",2.7e-08
+"592","Cyprus","bio_2011","Raw milk",6.97e-07
+"641","Cyprus","bio_2011","Forestry",3.87e-07
+"5","Czech Republic","bio_2011","Paddy rice",0
+"54","Czech Republic","bio_2011","Wheat",0.000241467
+"103","Czech Republic","bio_2011","Cereal grains NEC",0.000169913
+"152","Czech Republic","bio_2011","Vegetables, fruit, nuts",8.45e-06
+"201","Czech Republic","bio_2011","Oil seeds",0.000129921
+"250","Czech Republic","bio_2011","Sugar cane, sugar beet",1.63e-05
+"348","Czech Republic","bio_2011","Crops NEC",2.56e-06
+"397","Czech Republic","bio_2011","Cattle",3.75e-06
+"593","Czech Republic","bio_2011","Raw milk",2.21e-06
+"642","Czech Republic","bio_2011","Forestry",0.000529289
+"7","Denmark","bio_2011","Paddy rice",0
+"56","Denmark","bio_2011","Wheat",0.000158738
+"105","Denmark","bio_2011","Cereal grains NEC",0.000156635
+"154","Denmark","bio_2011","Vegetables, fruit, nuts",4.31e-06
+"203","Denmark","bio_2011","Oil seeds",3.2e-05
+"252","Denmark","bio_2011","Sugar cane, sugar beet",8.5e-06
+"350","Denmark","bio_2011","Crops NEC",0
+"399","Denmark","bio_2011","Cattle",2.38e-06
+"595","Denmark","bio_2011","Raw milk",2.37e-06
+"644","Denmark","bio_2011","Forestry",9.93e-05
+"8","Estonia","bio_2011","Paddy rice",0
+"57","Estonia","bio_2011","Wheat",3.68e-05
+"106","Estonia","bio_2011","Cereal grains NEC",4.79e-05
+"155","Estonia","bio_2011","Vegetables, fruit, nuts",2.37e-06
+"204","Estonia","bio_2011","Oil seeds",2.54e-05
+"253","Estonia","bio_2011","Sugar cane, sugar beet",0
+"351","Estonia","bio_2011","Crops NEC",0
+"400","Estonia","bio_2011","Cattle",8.16e-07
+"596","Estonia","bio_2011","Raw milk",1.53e-06
+"645","Estonia","bio_2011","Forestry",0.000369665
+"10","Finland","bio_2011","Paddy rice",0
+"59","Finland","bio_2011","Wheat",9.39e-05
+"108","Finland","bio_2011","Cereal grains NEC",0.00029624
+"157","Finland","bio_2011","Vegetables, fruit, nuts",4.96e-06
+"206","Finland","bio_2011","Oil seeds",3.35e-05
+"255","Finland","bio_2011","Sugar cane, sugar beet",5.2e-06
+"353","Finland","bio_2011","Crops NEC",0
+"402","Finland","bio_2011","Cattle",4.84e-07
+"598","Finland","bio_2011","Raw milk",2.2e-07
+"647","Finland","bio_2011","Forestry",0.003083204
+"11","France","bio_2011","Paddy rice",5.47e-05
+"60","France","bio_2011","Wheat",0.002895456
+"109","France","bio_2011","Cereal grains NEC",0.002488289
+"158","France","bio_2011","Vegetables, fruit, nuts",0.000470141
+"207","France","bio_2011","Oil seeds",0.001609704
+"256","France","bio_2011","Sugar cane, sugar beet",9.87e-05
+"354","France","bio_2011","Crops NEC",7.87e-06
+"403","France","bio_2011","Cattle",0.000137084
+"599","France","bio_2011","Raw milk",7.71e-05
+"648","France","bio_2011","Forestry",0.010515664
+"6","Germany","bio_2011","Paddy rice",0
+"55","Germany","bio_2011","Wheat",0.000706388
+"104","Germany","bio_2011","Cereal grains NEC",0.000705279
+"153","Germany","bio_2011","Vegetables, fruit, nuts",4.18e-05
+"202","Germany","bio_2011","Oil seeds",0.000298888
+"251","Germany","bio_2011","Sugar cane, sugar beet",8.66e-05
+"349","Germany","bio_2011","Crops NEC",4.48e-06
+"398","Germany","bio_2011","Cattle",2.02e-05
+"594","Germany","bio_2011","Raw milk",1.2e-05
+"643","Germany","bio_2011","Forestry",0.002289461
+"12","Greece","bio_2011","Paddy rice",9.01e-05
+"61","Greece","bio_2011","Wheat",0.001513041
+"110","Greece","bio_2011","Cereal grains NEC",0.001070835
+"159","Greece","bio_2011","Vegetables, fruit, nuts",0.00036869
+"208","Greece","bio_2011","Oil seeds",0.003073217
+"257","Greece","bio_2011","Sugar cane, sugar beet",1.53e-05
+"355","Greece","bio_2011","Crops NEC",4.7e-05
+"404","Greece","bio_2011","Cattle",1.93e-05
+"600","Greece","bio_2011","Raw milk",5.72e-05
+"649","Greece","bio_2011","Forestry",0.000629683
+"14","Hungary","bio_2011","Paddy rice",6.16e-07
+"63","Hungary","bio_2011","Wheat",0.000215207
+"112","Hungary","bio_2011","Cereal grains NEC",0.000374648
+"161","Hungary","bio_2011","Vegetables, fruit, nuts",1.79e-05
+"210","Hungary","bio_2011","Oil seeds",0.000194092
+"259","Hungary","bio_2011","Sugar cane, sugar beet",3.3e-06
+"357","Hungary","bio_2011","Crops NEC",2.62e-06
+"406","Hungary","bio_2011","Cattle",2.95e-06
+"602","Hungary","bio_2011","Raw milk",4.51e-06
+"651","Hungary","bio_2011","Forestry",0.000324973
+"35","India","bio_2011","Paddy rice",1.0528286
+"84","India","bio_2011","Wheat",0.71483728
+"133","India","bio_2011","Cereal grains NEC",0.67792278
+"182","India","bio_2011","Vegetables, fruit, nuts",1.1143181
+"231","India","bio_2011","Oil seeds",0.91181856
+"280","India","bio_2011","Sugar cane, sugar beet",0.12358925
+"378","India","bio_2011","Crops NEC",0.11511547
+"427","India","bio_2011","Cattle",0.046331195
+"623","India","bio_2011","Raw milk",0.36045497
+"672","India","bio_2011","Forestry",0.86743039
+"43","Indonesia","bio_2011","Paddy rice",2.2480436
+"92","Indonesia","bio_2011","Wheat",0
+"141","Indonesia","bio_2011","Cereal grains NEC",0.79577439
+"190","Indonesia","bio_2011","Vegetables, fruit, nuts",0.90138512
+"239","Indonesia","bio_2011","Oil seeds",1.938301
+"288","Indonesia","bio_2011","Sugar cane, sugar beet",0.1076565
+"386","Indonesia","bio_2011","Crops NEC",1.5650369
+"435","Indonesia","bio_2011","Cattle",0.27882404
+"631","Indonesia","bio_2011","Raw milk",0.024057633
+"680","Indonesia","bio_2011","Forestry",1.9021018
+"15","Ireland","bio_2011","Paddy rice",0
+"64","Ireland","bio_2011","Wheat",6.1e-05
+"113","Ireland","bio_2011","Cereal grains NEC",0.000131775
+"162","Ireland","bio_2011","Vegetables, fruit, nuts",4.08e-06
+"211","Ireland","bio_2011","Oil seeds",8.03e-06
+"260","Ireland","bio_2011","Sugar cane, sugar beet",0
+"358","Ireland","bio_2011","Crops NEC",0
+"407","Ireland","bio_2011","Cattle",5.11e-06
+"603","Ireland","bio_2011","Raw milk",7.45e-06
+"652","Ireland","bio_2011","Forestry",0.000120557
+"16","Italy","bio_2011","Paddy rice",0.000534903
+"65","Italy","bio_2011","Wheat",0.00385727
+"114","Italy","bio_2011","Cereal grains NEC",0.002790007
+"163","Italy","bio_2011","Vegetables, fruit, nuts",0.001220778
+"212","Italy","bio_2011","Oil seeds",0.003163111
+"261","Italy","bio_2011","Sugar cane, sugar beet",0.000125643
+"359","Italy","bio_2011","Crops NEC",6.21e-05
+"408","Italy","bio_2011","Cattle",7.09e-05
+"604","Italy","bio_2011","Raw milk",0.000165564
+"653","Italy","bio_2011","Forestry",0.002197061
+"30","Japan","bio_2011","Paddy rice",0.007090203
+"79","Japan","bio_2011","Wheat",0.000951509
+"128","Japan","bio_2011","Cereal grains NEC",0.000526308
+"177","Japan","bio_2011","Vegetables, fruit, nuts",0.001066598
+"226","Japan","bio_2011","Oil seeds",0.000656114
+"275","Japan","bio_2011","Sugar cane, sugar beet",0.000373855
+"373","Japan","bio_2011","Crops NEC",0.000276612
+"422","Japan","bio_2011","Cattle",2.76e-05
+"618","Japan","bio_2011","Raw milk",1.04e-05
+"667","Japan","bio_2011","Forestry",0.010483911
+"33","Korea, Rep.","bio_2011","Paddy rice",0.002706368
+"82","Korea, Rep.","bio_2011","Wheat",4.13e-05
+"131","Korea, Rep.","bio_2011","Cereal grains NEC",0.00018506
+"180","Korea, Rep.","bio_2011","Vegetables, fruit, nuts",0.000517913
+"229","Korea, Rep.","bio_2011","Oil seeds",0.000448728
+"278","Korea, Rep.","bio_2011","Sugar cane, sugar beet",0
+"376","Korea, Rep.","bio_2011","Crops NEC",5.93e-05
+"425","Korea, Rep.","bio_2011","Cattle",2.97e-06
+"621","Korea, Rep.","bio_2011","Raw milk",2.89e-06
+"670","Korea, Rep.","bio_2011","Forestry",0.003174826
+"19","Latvia","bio_2011","Paddy rice",0
+"68","Latvia","bio_2011","Wheat",0.000104728
+"117","Latvia","bio_2011","Cereal grains NEC",7.15e-05
+"166","Latvia","bio_2011","Vegetables, fruit, nuts",4.82e-06
+"215","Latvia","bio_2011","Oil seeds",4.24e-05
+"264","Latvia","bio_2011","Sugar cane, sugar beet",0
+"362","Latvia","bio_2011","Crops NEC",0
+"411","Latvia","bio_2011","Cattle",3.29e-06
+"607","Latvia","bio_2011","Raw milk",9.93e-07
+"656","Latvia","bio_2011","Forestry",0.000568561
+"17","Lithuania","bio_2011","Paddy rice",0
+"66","Lithuania","bio_2011","Wheat",0.000162921
+"115","Lithuania","bio_2011","Cereal grains NEC",0.000151835
+"164","Lithuania","bio_2011","Vegetables, fruit, nuts",1.05e-05
+"213","Lithuania","bio_2011","Oil seeds",7.62e-05
+"262","Lithuania","bio_2011","Sugar cane, sugar beet",5.2e-06
+"360","Lithuania","bio_2011","Crops NEC",0
+"409","Lithuania","bio_2011","Cattle",3.14e-06
+"605","Lithuania","bio_2011","Raw milk",1.16e-06
+"654","Lithuania","bio_2011","Forestry",0.000364122
+"18","Luxembourg","bio_2011","Paddy rice",0
+"67","Luxembourg","bio_2011","Wheat",2.91e-06
+"116","Luxembourg","bio_2011","Cereal grains NEC",3.13e-06
+"165","Luxembourg","bio_2011","Vegetables, fruit, nuts",1.55e-07
+"214","Luxembourg","bio_2011","Oil seeds",9.8e-07
+"263","Luxembourg","bio_2011","Sugar cane, sugar beet",0
+"361","Luxembourg","bio_2011","Crops NEC",0
+"410","Luxembourg","bio_2011","Cattle",0
+"606","Luxembourg","bio_2011","Raw milk",6.27e-07
+"655","Luxembourg","bio_2011","Forestry",1.4e-05
+"20","Malta","bio_2011","Paddy rice",0
+"69","Malta","bio_2011","Wheat",0
+"118","Malta","bio_2011","Cereal grains NEC",0
+"167","Malta","bio_2011","Vegetables, fruit, nuts",0
+"216","Malta","bio_2011","Oil seeds",0
+"265","Malta","bio_2011","Sugar cane, sugar beet",0
+"363","Malta","bio_2011","Crops NEC",0
+"412","Malta","bio_2011","Cattle",0
+"608","Malta","bio_2011","Raw milk",0
+"657","Malta","bio_2011","Forestry",0
+"36","Mexico","bio_2011","Paddy rice",0.011192239
+"85","Mexico","bio_2011","Wheat",0.063223261
+"134","Mexico","bio_2011","Cereal grains NEC",1.32973
+"183","Mexico","bio_2011","Vegetables, fruit, nuts",0.30055054
+"232","Mexico","bio_2011","Oil seeds",0.12258242
+"281","Mexico","bio_2011","Sugar cane, sugar beet",0.14136766
+"379","Mexico","bio_2011","Crops NEC",0.17144505
+"428","Mexico","bio_2011","Cattle",0.24592768
+"624","Mexico","bio_2011","Raw milk",0.18358167
+"673","Mexico","bio_2011","Forestry",0.54125803
+"21","Netherlands","bio_2011","Paddy rice",0
+"70","Netherlands","bio_2011","Wheat",4.23e-05
+"119","Netherlands","bio_2011","Cereal grains NEC",1.55e-05
+"168","Netherlands","bio_2011","Vegetables, fruit, nuts",2.27e-05
+"217","Netherlands","bio_2011","Oil seeds",1.3e-06
+"266","Netherlands","bio_2011","Sugar cane, sugar beet",2.05e-05
+"364","Netherlands","bio_2011","Crops NEC",0
+"413","Netherlands","bio_2011","Cattle",2.75e-07
+"609","Netherlands","bio_2011","Raw milk",4.45e-07
+"658","Netherlands","bio_2011","Forestry",6.24e-05
+"42","Norway","bio_2011","Paddy rice",0
+"91","Norway","bio_2011","Wheat",7.48e-06
+"140","Norway","bio_2011","Cereal grains NEC",2.26e-05
+"189","Norway","bio_2011","Vegetables, fruit, nuts",7.83e-07
+"238","Norway","bio_2011","Oil seeds",5.3e-07
+"287","Norway","bio_2011","Sugar cane, sugar beet",0
+"385","Norway","bio_2011","Crops NEC",0
+"434","Norway","bio_2011","Cattle",1.79e-08
+"630","Norway","bio_2011","Raw milk",3.48e-08
+"679","Norway","bio_2011","Forestry",0.0002933
+"22","Poland","bio_2011","Paddy rice",0
+"71","Poland","bio_2011","Wheat",0.000466695
+"120","Poland","bio_2011","Cereal grains NEC",0.001128131
+"169","Poland","bio_2011","Vegetables, fruit, nuts",7.21e-05
+"218","Poland","bio_2011","Oil seeds",0.000175783
+"267","Poland","bio_2011","Sugar cane, sugar beet",4.2e-05
+"365","Poland","bio_2011","Crops NEC",3.62e-06
+"414","Poland","bio_2011","Cattle",7.26e-06
+"610","Poland","bio_2011","Raw milk",1.68e-05
+"659","Poland","bio_2011","Forestry",0.001788204
+"23","Portugal","bio_2011","Paddy rice",6.97e-05
+"72","Portugal","bio_2011","Wheat",9.58e-05
+"121","Portugal","bio_2011","Cereal grains NEC",0.000478562
+"170","Portugal","bio_2011","Vegetables, fruit, nuts",0.000369139
+"219","Portugal","bio_2011","Oil seeds",0.000816532
+"268","Portugal","bio_2011","Sugar cane, sugar beet",8.51e-07
+"366","Portugal","bio_2011","Crops NEC",8.78e-07
+"415","Portugal","bio_2011","Cattle",4.54e-05
+"611","Portugal","bio_2011","Raw milk",6.24e-05
+"660","Portugal","bio_2011","Forestry",0.002558943
+"24","Romania","bio_2011","Paddy rice",4.91e-06
+"73","Romania","bio_2011","Wheat",0.000766586
+"122","Romania","bio_2011","Cereal grains NEC",0.001171412
+"171","Romania","bio_2011","Vegetables, fruit, nuts",9.38e-05
+"220","Romania","bio_2011","Oil seeds",0.000753375
+"269","Romania","bio_2011","Sugar cane, sugar beet",5.03e-06
+"367","Romania","bio_2011","Crops NEC",2.25e-05
+"416","Romania","bio_2011","Cattle",2.4e-05
+"612","Romania","bio_2011","Raw milk",1.15e-05
+"661","Romania","bio_2011","Forestry",0.000843011
+"37","Russian Federation","bio_2011","Paddy rice",0.000427206
+"86","Russian Federation","bio_2011","Wheat",0.031109821
+"135","Russian Federation","bio_2011","Cereal grains NEC",0.013276746
+"184","Russian Federation","bio_2011","Vegetables, fruit, nuts",0.001695879
+"233","Russian Federation","bio_2011","Oil seeds",0.015492378
+"282","Russian Federation","bio_2011","Sugar cane, sugar beet",0.001469776
+"380","Russian Federation","bio_2011","Crops NEC",8.03e-06
+"429","Russian Federation","bio_2011","Cattle",0.0009985
+"625","Russian Federation","bio_2011","Raw milk",0.000980998
+"674","Russian Federation","bio_2011","Forestry",0.026982934
+"27","Slovak Republic","bio_2011","Paddy rice",0
+"76","Slovak Republic","bio_2011","Wheat",8.66e-05
+"125","Slovak Republic","bio_2011","Cereal grains NEC",9e-05
+"174","Slovak Republic","bio_2011","Vegetables, fruit, nuts",4.97e-06
+"223","Slovak Republic","bio_2011","Oil seeds",6.14e-05
+"272","Slovak Republic","bio_2011","Sugar cane, sugar beet",4.32e-06
+"370","Slovak Republic","bio_2011","Crops NEC",1.68e-07
+"419","Slovak Republic","bio_2011","Cattle",1.86e-06
+"615","Slovak Republic","bio_2011","Raw milk",8.55e-07
+"664","Slovak Republic","bio_2011","Forestry",0.000435506
+"26","Slovenia","bio_2011","Paddy rice",0
+"75","Slovenia","bio_2011","Wheat",1.4e-05
+"124","Slovenia","bio_2011","Cereal grains NEC",2.99e-05
+"173","Slovenia","bio_2011","Vegetables, fruit, nuts",4.25e-06
+"222","Slovenia","bio_2011","Oil seeds",1.27e-06
+"271","Slovenia","bio_2011","Sugar cane, sugar beet",0
+"369","Slovenia","bio_2011","Crops NEC",6.6e-07
+"418","Slovenia","bio_2011","Cattle",2.52e-06
+"614","Slovenia","bio_2011","Raw milk",2.74e-06
+"663","Slovenia","bio_2011","Forestry",0.000327376
+"44","South Africa","bio_2011","Paddy rice",0
+"93","South Africa","bio_2011","Wheat",0.035516999
+"142","South Africa","bio_2011","Cereal grains NEC",0.15298682
+"191","South Africa","bio_2011","Vegetables, fruit, nuts",0.034715102
+"240","South Africa","bio_2011","Oil seeds",0.069106315
+"289","South Africa","bio_2011","Sugar cane, sugar beet",0.015975895
+"387","South Africa","bio_2011","Crops NEC",0.000873623
+"436","South Africa","bio_2011","Cattle",0.87451943
+"632","South Africa","bio_2011","Raw milk",0.37689414
+"681","South Africa","bio_2011","Forestry",0.067939015
+"9","Spain","bio_2011","Paddy rice",0.000345929
+"58","Spain","bio_2011","Wheat",0.005638794
+"107","Spain","bio_2011","Cereal grains NEC",0.010819525
+"156","Spain","bio_2011","Vegetables, fruit, nuts",0.002530532
+"205","Spain","bio_2011","Oil seeds",0.00976815
+"254","Spain","bio_2011","Sugar cane, sugar beet",0.000127024
+"352","Spain","bio_2011","Crops NEC",5.51e-05
+"401","Spain","bio_2011","Cattle",0.000171739
+"597","Spain","bio_2011","Raw milk",0.000223312
+"646","Spain","bio_2011","Forestry",0.006618535
+"25","Sweden","bio_2011","Paddy rice",0
+"74","Sweden","bio_2011","Wheat",0.000186865
+"123","Sweden","bio_2011","Cereal grains NEC",0.000245738
+"172","Sweden","bio_2011","Vegetables, fruit, nuts",9.52e-06
+"221","Sweden","bio_2011","Oil seeds",5.03e-05
+"270","Sweden","bio_2011","Sugar cane, sugar beet",1.77e-05
+"368","Sweden","bio_2011","Crops NEC",0
+"417","Sweden","bio_2011","Cattle",4.97e-07
+"613","Sweden","bio_2011","Raw milk",3.58e-07
+"662","Sweden","bio_2011","Forestry",0.004207569
+"39","Switzerland","bio_2011","Paddy rice",0
+"88","Switzerland","bio_2011","Wheat",2.67e-05
+"137","Switzerland","bio_2011","Cereal grains NEC",1.75e-05
+"186","Switzerland","bio_2011","Vegetables, fruit, nuts",4.92e-06
+"235","Switzerland","bio_2011","Oil seeds",8.03e-06
+"284","Switzerland","bio_2011","Sugar cane, sugar beet",5.8e-06
+"382","Switzerland","bio_2011","Crops NEC",1.7e-07
+"431","Switzerland","bio_2011","Cattle",2.76e-06
+"627","Switzerland","bio_2011","Raw milk",3.41e-06
+"676","Switzerland","bio_2011","Forestry",0.000262221
+"41","Taiwan","bio_2011","Paddy rice",0.007258948
+"90","Taiwan","bio_2011","Wheat",0
+"139","Taiwan","bio_2011","Cereal grains NEC",0.00059159
+"188","Taiwan","bio_2011","Vegetables, fruit, nuts",0.009558925
+"237","Taiwan","bio_2011","Oil seeds",0.000803441
+"286","Taiwan","bio_2011","Sugar cane, sugar beet",0.000262516
+"384","Taiwan","bio_2011","Crops NEC",0.000469266
+"433","Taiwan","bio_2011","Cattle",0.001456701
+"629","Taiwan","bio_2011","Raw milk",0.000572129
+"678","Taiwan","bio_2011","Forestry",0.002925869
+"40","Turkey","bio_2011","Paddy rice",0.000262394
+"89","Turkey","bio_2011","Wheat",0.02127181
+"138","Turkey","bio_2011","Cereal grains NEC",0.009733429
+"187","Turkey","bio_2011","Vegetables, fruit, nuts",0.002949792
+"236","Turkey","bio_2011","Oil seeds",0.005141748
+"285","Turkey","bio_2011","Sugar cane, sugar beet",0.000781048
+"383","Turkey","bio_2011","Crops NEC",0.000576531
+"432","Turkey","bio_2011","Cattle",0.000463592
+"628","Turkey","bio_2011","Raw milk",0.000437817
+"677","Turkey","bio_2011","Forestry",0.000936052
+"28","United Kingdom","bio_2011","Paddy rice",0
+"77","United Kingdom","bio_2011","Wheat",0.000535016
+"126","United Kingdom","bio_2011","Cereal grains NEC",0.000296413
+"175","United Kingdom","bio_2011","Vegetables, fruit, nuts",3.68e-05
+"224","United Kingdom","bio_2011","Oil seeds",0.000200367
+"273","United Kingdom","bio_2011","Sugar cane, sugar beet",3.09e-05
+"371","United Kingdom","bio_2011","Crops NEC",0
+"420","United Kingdom","bio_2011","Cattle",3.44e-06
+"616","United Kingdom","bio_2011","Raw milk",3.62e-06
+"665","United Kingdom","bio_2011","Forestry",0.000379264
+"29","United States","bio_2011","Paddy rice",0.004732961
+"78","United States","bio_2011","Wheat",0.026850576
+"127","United States","bio_2011","Cereal grains NEC",0.091436001
+"176","United States","bio_2011","Vegetables, fruit, nuts",0.007639508
+"225","United States","bio_2011","Oil seeds",0.054849641
+"274","United States","bio_2011","Sugar cane, sugar beet",0.00172157
+"372","United States","bio_2011","Crops NEC",0.000148618
+"421","United States","bio_2011","Cattle",0.034085109
+"617","United States","bio_2011","Raw milk",0.007215471
+"666","United States","bio_2011","Forestry",0.11010076
+"48","RoW Africa","bio_2011","Paddy rice",0.30134915
+"97","RoW Africa","bio_2011","Wheat",0.06002336
+"146","RoW Africa","bio_2011","Cereal grains NEC",2.2107123
+"195","RoW Africa","bio_2011","Vegetables, fruit, nuts",1.4840715
+"244","RoW Africa","bio_2011","Oil seeds",0.74245129
+"293","RoW Africa","bio_2011","Sugar cane, sugar beet",0.026979019
+"391","RoW Africa","bio_2011","Crops NEC",0.23467425
+"440","RoW Africa","bio_2011","Cattle",8.4222642
+"636","RoW Africa","bio_2011","Raw milk",2.9212768
+"685","RoW Africa","bio_2011","Forestry",0.82842928
+"46","RoW America","bio_2011","Paddy rice",0.54795481
+"95","RoW America","bio_2011","Wheat",0.24707969
+"144","RoW America","bio_2011","Cereal grains NEC",1.8196763
+"193","RoW America","bio_2011","Vegetables, fruit, nuts",1.5758946
+"242","RoW America","bio_2011","Oil seeds",1.502566
+"291","RoW America","bio_2011","Sugar cane, sugar beet",0.62078616
+"389","RoW America","bio_2011","Crops NEC",0.8731941
+"438","RoW America","bio_2011","Cattle",6.8364673
+"634","RoW America","bio_2011","Raw milk",2.1917607
+"683","RoW America","bio_2011","Forestry",0.75893369
+"45","RoW Asia and Pacific","bio_2011","Paddy rice",1.7073802
+"94","RoW Asia and Pacific","bio_2011","Wheat",0.22127058
+"143","RoW Asia and Pacific","bio_2011","Cereal grains NEC",0.34715043
+"192","RoW Asia and Pacific","bio_2011","Vegetables, fruit, nuts",0.76429849
+"241","RoW Asia and Pacific","bio_2011","Oil seeds",1.2663614
+"290","RoW Asia and Pacific","bio_2011","Sugar cane, sugar beet",0.14000748
+"388","RoW Asia and Pacific","bio_2011","Crops NEC",0.5251942
+"437","RoW Asia and Pacific","bio_2011","Cattle",0.17509191
+"633","RoW Asia and Pacific","bio_2011","Raw milk",0.13368916
+"682","RoW Asia and Pacific","bio_2011","Forestry",2.2086006
+"47","RoW Europe","bio_2011","Paddy rice",6.4e-05
+"96","RoW Europe","bio_2011","Wheat",0.009327782
+"145","RoW Europe","bio_2011","Cereal grains NEC",0.011921756
+"194","RoW Europe","bio_2011","Vegetables, fruit, nuts",0.001388679
+"243","RoW Europe","bio_2011","Oil seeds",0.011042766
+"292","RoW Europe","bio_2011","Sugar cane, sugar beet",0.000376938
+"390","RoW Europe","bio_2011","Crops NEC",9.99e-05
+"439","RoW Europe","bio_2011","Cattle",0.000288331
+"635","RoW Europe","bio_2011","Raw milk",0.000176638
+"684","RoW Europe","bio_2011","Forestry",0.004562988
+"49","RoW Middle East","bio_2011","Paddy rice",0.002234402
+"98","RoW Middle East","bio_2011","Wheat",0.032482702
+"147","RoW Middle East","bio_2011","Cereal grains NEC",0.015868044
+"196","RoW Middle East","bio_2011","Vegetables, fruit, nuts",0.006276056
+"245","RoW Middle East","bio_2011","Oil seeds",0.004526945
+"294","RoW Middle East","bio_2011","Sugar cane, sugar beet",0.000912632
+"392","RoW Middle East","bio_2011","Crops NEC",0.000829265
+"441","RoW Middle East","bio_2011","Cattle",0.003204654
+"637","RoW Middle East","bio_2011","Raw milk",0.001726427
+"686","RoW Middle East","bio_2011","Forestry",0.000857665
